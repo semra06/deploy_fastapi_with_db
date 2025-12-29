@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+python-dotenv
+joblib
+scikit-learn
+langchain
+langchain-community
+google-generativeai
